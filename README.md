@@ -9,7 +9,7 @@ Existem alguns desafios principais neste dataset:
 * Algumas variáveis não são 'inputáveis' por virem de outros setores da empresa
 * Alta correlação entre colunas. Portanto, será necessário realizar uma redução de dimensionalidade e tratamento dos dados, primeiramente em colunas que indicam informações que passaram por outros setores da empresa, de forma a permitir um retorno automatizado.
 
-## Fluxo de Desenvolvido
+## Fluxo Desenvolvido
 * Análise Exploratória
 * Redução da dimensionalidade em colunas que expressem dados de outros processos e com alta correlação
 * Tratamento de Dados Faltantes
