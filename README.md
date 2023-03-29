@@ -1,5 +1,5 @@
-# Bootcamp_Fiap
-## BootCamp de Machine Learning**
+# Bootcamp Fiap
+## Projeto de Machine Learning
 
 Desafio do curso de Inteligencia Artificial e Machine Learning da FIAP visando desenvolver uma solução para uma empresa de suprimentos onde a análise de crédito passaria a ser totalmente automatizada no momento da solicitação/pedido
 
